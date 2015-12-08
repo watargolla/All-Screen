@@ -1,0 +1,10 @@
+1. INFORMATION WE COLLECT
+We require intagram login details in order to fetch data(only images/video) from respective user account
+We store session info in device so that user doesn't have to login again and again.
+
+2. HOW WE USE YOUR INFORMATION
+Using login credentials we request for recent images and video of user so that user can display that 
+image or video in TV screen via Chromcast
+
+3. SHARING OF YOUR INFORMATION
+We will not rent or sell your information to anyne.
