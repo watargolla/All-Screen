@@ -9,3 +9,6 @@ https://github.com/igortrncic/dotted-progress-bar
 
 InteractivePlayerView
 https://github.com/iammert/InteractivePlayerView
+
+NannoHttpd
+https://github.com/NanoHttpd/nanohttpd
