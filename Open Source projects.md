@@ -12,3 +12,9 @@ https://github.com/iammert/InteractivePlayerView
 
 NannoHttpd
 https://github.com/NanoHttpd/nanohttpd
+
+dd.plist
+https://github.com/3breadt/dd-plist
+
+jmDNS
+https://github.com/jmdns/jmdns
