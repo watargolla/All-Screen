@@ -44,7 +44,7 @@
 </li>
 </ul>
 <h2 style="color: #2e6c80;">&nbsp; &nbsp; &nbsp;Contact me</h2>
-<p>&nbsp; &nbsp; &nbsp; Kindly provide following info when contacting me</p>
+<p>&nbsp; &nbsp; &nbsp; Kindly provide following info when contacting me or follow https://docs.google.com/forms/d/e/1FAIpQLSfs7ivy6MSPPNF2Z6qickb3MvMASvqYocPuX_SJOsBQIXFXYA/viewform?c=0&w=1</p>
 <ul style="list-style-type: disc;">
 <li>
 <p>Casting from: Phone name, model, etc&nbsp;</p>
