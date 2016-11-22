@@ -31,7 +31,7 @@
 <p>Choppy video playback, issue is related to network congestion or 1080 videos, I am looking into on the fly transcoding, will take some time to fix, thanks for your patience&nbsp;</p>
 </li>
 <li>
-<p>Some files are not supported by these streaming device like MKV, in some cases mp4 video also doesn't play please consider contacting me.</p>
+<p>Some files are not supported by these streaming device like MKV, avi, in some cases mp4 video also doesn't play please consider contacting me.</p>
 </li>
 </ul>
 <h2 style="color: #2e6c80;">&nbsp; &nbsp; &nbsp;Subtitle issue</h2>
