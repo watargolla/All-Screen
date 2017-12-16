@@ -1,9 +1,9 @@
 .background {
-  background: center no-repeat url(splash.jpg);
+  background: center no-repeat url(/splash.jpg);
 }
 
 .logo {
-  background-image: url(logo.png);
+  background-image: url(/logo.png);
 }
 
 .progressBar {
