@@ -6,7 +6,7 @@
 <li style="clear: both;">Device detection</li>
 <li style="clear: both;">Playback issue</li>
 <li style="clear: both;">Subtitle issue<strong>&nbsp;</strong></li>
-<li style="clear: both;">Contact me</li>
+<li style="clear: both;">Contact us</li>
 </ul>
 <p>&nbsp;</p>
 <h2 style="color: #2e6c80;">&nbsp; &nbsp; &nbsp;Device detection:</h2>
@@ -43,7 +43,7 @@
 <p>Currently app support english subtitles only, I am going to add support for other laungages very soon&nbsp;</p>
 </li>
 </ul>
-<h2 style="color: #2e6c80;">&nbsp; &nbsp; &nbsp;Contact me</h2>
+<h2 style="color: #2e6c80;">&nbsp; &nbsp; &nbsp;Contact us</h2>
 <p>&nbsp; &nbsp; &nbsp; Kindly provide following info when contacting us or follow https://docs.google.com/forms/d/e/1FAIpQLSfs7ivy6MSPPNF2Z6qickb3MvMASvqYocPuX_SJOsBQIXFXYA/viewform?c=0&w=1</p>
 <ul style="list-style-type: disc;">
 <li>
