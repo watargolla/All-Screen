@@ -3,11 +3,24 @@
 <h2 style="color: #2e6c80;">Before posting bad ratings on Play Store, consider reading this guide or contacting us directly at siraryabhata@gmail.com</h2>
 <h2 style="color: #2e6c80;">&nbsp; &nbsp; &nbsp;Common Problems:</h2>
 <ul style="list-style: disc; font-size: 14px; line-height: 32px; font-weight: bold;">
+<li style="clear: both;">How to connect?</li>
 <li style="clear: both;">Device detection</li>
 <li style="clear: both;">Playback issue</li>
 <li style="clear: both;">Subtitle issue<strong>&nbsp;</strong></li>
 <li style="clear: both;">Contact us</li>
 </ul>
+<p>&nbsp;</p>
+<h2 style="color: #2e6c80;">&nbsp; &nbsp; &nbsp;How to connect?</h2>
+<li>
+<p>Connect your Streaming device(or smart TV) and mobile to same wifi network, if you don't have router or wifi then enable hotspot mode on your phone and connect your streaming device to your hotspot.
+
+Open the All Screen app on mobile, If your Streaming device(or smart TV) is supported, app will find it and select it.
+Once casting device is selected, select any media to play on it.
+
+Does your Streaming device(or smart TV) support dlna upnp?
+
+Contact us if you face any further problems</p>
+</li>
 <p>&nbsp;</p>
 <h2 style="color: #2e6c80;">&nbsp; &nbsp; &nbsp;Device detection:</h2>
 <ul style="list-style-type: disc;">
