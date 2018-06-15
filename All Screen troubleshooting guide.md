@@ -43,7 +43,7 @@ Contact us if you face any further problems</p>
 <p>No rewind, fast forward, this is related to dlna/upnp devices, some smart TV's support these feature but are not fully compliant or is not dlna certified devices, so contact us will try to fix it for your TV.&nbsp;</p>
 </li>
 <li>
-<p>Choppy video playback, issue is related to network congestion or 1080 videos, I am looking into on the fly transcoding, will take some time to fix, thanks for your patience&nbsp;</p>
+<p>Choppy video playback, issue is related to network congestion or 1080 videos&nbsp;</p>
 </li>
 <li>
 <p>Some files are not supported by these streaming device like MKV, avi, in some cases mp4 video also doesn't play please consider contacting us.</p>
