@@ -11,6 +11,7 @@
 </ul>
 <p>&nbsp;</p>
 <h2 style="color: #2e6c80;">&nbsp; &nbsp; &nbsp;How to connect?</h2>
+<ul style="list-style-type: disc;">
 <li>
 <p>Connect your Streaming device(or smart TV) and mobile to same wifi network, if you don't have router or wifi then enable hotspot mode on your phone and connect your streaming device to your hotspot.
 
@@ -21,6 +22,7 @@ Does your Streaming device(or smart TV) support dlna upnp?
 
 Contact us if you face any further problems</p>
 </li>
+</ul>
 <p>&nbsp;</p>
 <h2 style="color: #2e6c80;">&nbsp; &nbsp; &nbsp;Device detection:</h2>
 <ul style="list-style-type: disc;">
