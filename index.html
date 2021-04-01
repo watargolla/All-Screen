@@ -1,126 +1,14 @@
+<!DOCTYPE html>
 <html>
 <head>
-    <title>FAQ</title>
-    <meta name="viewport" content="width=device-width,user-scalable=no">
+  <link rel="stylesheet" href="css/receiver.css" media="screen" />
+  <script type="text/javascript" src="//www.gstatic.com/cast/sdk/libs/caf_receiver/v3/cast_receiver_framework.js">
+  </script>
 </head>
 <body>
-<h1>FAQ</h1>
-<h3>★ Connection Problem</h3>
-<div>
-    <b>I can't detect the cast device:</b><br><br>
-    1. Make sure your phone and cast device are connecting to the same Wi-Fi. if you don't have
-    router or wifi then enable hotspot mode on your phone and connect your streaming device to your
-    hotspot.Open the Xtreme Video Cast app on mobile, If your Streaming device(or smart TV) is supported,
-    app will find it and select it. Once casting device is selected, select any media to play on it.<br><br>
-    2. Make sure your VPN is off on your phone.<br><br>
-    3. Try to reboot(restart) your router, cast device or phone.<br><br>
-</div>
-<div>
-    <b>Why does the app keep getting disconnected?</b><br><br>
-    It may relates to the setting of your device, so please make sure you haven't set any battery
-    optimization, which may prevent app from functioning properly, for example, turning off Wi-Fi
-    when the phone is not in use. If so, please turn on the setting to prevent disconnection.
-    <br><br>
-    <b>I can't see anything on TV while the app performs well on my phone:</b><br><br>
-    Please select the right input, if your TV supports multi-inputs: Chromecast, Xbox or Fire stick.
-</div>
-<h3>★ File Not Found</h3>
-
-<b>I can't find the file I want to cast:</b><br><br>
-App will scan the video, audio and picture automatically on your phone. Please check 'Directories'
-at the bottom of folders. If it still can not be found, let us know the file path and format of the
-file. We will optimize it.
-
-<h3>★ Media(Video,Image & Audio) Problems</h3>
-
-<b>My video/audio/picture fails to play:</b><br><br>
-It may be that the format of the file is not supported by cast device.<br><br>
-<b> Chromecast: </b><a href="https://developers.google.com/cast/docs/media">https://developers.google.com/cast/docs/media</a><br><br>
-<b>Fire TV/Fire Stick: </b> <a
-        href="https://developer.amazon.com/docs/fire-tv/device-specifications.html">https://developer.amazon.com/docs/fire-tv/device-specifications.html</a><br><br>
-<b>Roku: </b> <a href="https://sdkdocs.roku.com/display/sdkdoc/Audio+and+Video+Support">https://sdkdocs.roku.com/display/sdkdoc/Audio+and+Video+Support</a><br><br>
-
-<b>My video always pauses, buffers or lags:</b><br><br>
-It may be that the bitrate of the video is too high for the cast device to keep up and the poor
-network is also a cause. Please try to reboot your router, reopen All Screen and cast again.<br><br>
-
-<b>My video plays without sound:</b><br><br>
-It may be that the audio codec of your video is not supported by cast device.<br><br>
-<b>Chromecast: </b><a href="https://developers.google.com/cast/docs/media">https://developers.google.com/cast/docs/media</a><br><br>
-<b>Fire TV/Fire Stick: </b><a
-        href="https://developer.amazon.com/docs/fire-tv/device-specifications.html">https://developer.amazon.com/docs/fire-tv/device-specifications.html</a><br>
-<b>Roku: </b><a href="https://sdkdocs.roku.com/display/sdkdoc/Audio+and+Video+Support">https://sdkdocs.roku.com/display/sdkdoc/Audio+and+Video+Support</a><br>
-
-<br><b>My video plays sound but without picture:</b><br><br>
-It may be that the video codec of your of your video is not supported by cast device.<br><br>
-<b>Chromecast:</b> <a href="https://developers.google.com/cast/docs/media">https://developers.google.com/cast/docs/media</a>
-<br><br><b>Fire TV/Fire Stick: </b><a
-        href="https://developer.amazon.com/docs/fire-tv/device-specifications.html">https://developer.amazon.com/docs/fire-tv/device-specifications.html</a>
-<br><b>Roku:</b> <a href="https://sdkdocs.roku.com/display/sdkdoc/Audio+and+Video+Support">https://sdkdocs.roku.com/display/sdkdoc/Audio+and+Video+Support</a>
-
-<h3>★ Media Casting Problems</h3>
-
-Why is there always a “No media found”?<br><br>
-1.Make sure the video or audio is playing in the browser.<br><br>
-2.Try to refresh the current page.<br><br>
-3.Some websites may have media protection, we can’t get resource from it directly. You can feedback
-to us and we will optimize it.<br>
-<br>
-<b>I can’t play the browser video:</b><br><br>
-Please ensure the video plays correctly in the browser. Your device may not support the format of
-the video. You can try a different video source if available.<br>
-
-
-<h3>★ Subtitle issue</h3>
-
-Subtitles are only supported on Chromecast, Fire TV/Stick, Roku TV/Stick and supported DLNA devices<br>
-<h3>★ Others</h3>
-<p>
-    <b>Need more cast devices to be supported.</b><br><br>
-    We support Chromecast, Fire TV/Stick, Roku TV/Stick, Apple TV, Smart TV's with DLNA/UPNP capability for now. We
-    are working to support more cast devices. If you have any cast
-    devices which need our support, feel free to let us know.
-</p>
-<b>Need more sources to be supported.</b><br><br>
-We support video, audio and photo for now. We are working to support more sources like web video,
-local network, etc. If you have any sources which need our
-support, feel free to let us know.<br>
-<h3>★ Contact us</h3>
-
-
-<p><i>If your problem is still not resolved, you can directly email us without any hesitation. We
-    will fix your issue as soon as possible. Certainly, your suggestions are always welcomed as
-    well.</i><br>
-    <b>Email: <i><u>contactxtremecast@gmail.com</u></i></b></p><br>
-<center><b>Enjoy the App!</b></center>
+  <cast-media-player></cast-media-player>
 </body>
-<style type="text/css">
-body {
-background: #2D3741;
-font-size: 18px;
-font-family: Verdana;
-color: #ffffffe8;
-padding: 10px;
-}
-h3 {
-    font-size: 22px;
-font-family: arial;
-color: #ff5722;
-}
-a {
-   color: #7d8af7;
-}
-
-body {
-    overflow-x: hidden !important;
-}
-.container {
-    max-width: 100% !important;
-    overflow-x: hidden !important;
-}
-
-
-
-
-</style>
+<footer>
+  <script src="js/receiver.js"></script>
+</footer>
 </html>
